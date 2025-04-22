@@ -1,4 +1,4 @@
-### ***HR Analytics Dashboard – Employee Performance & Attrition Tracking***
+## **HR Analytics Dashboard – Employee Performance & Attrition Tracking**
 
 **Dashboard Link:** https://app.powerbi.com/reportEmbed?reportId=c242d7d7-9cad-4407-8ddd-039713f5472a&autoAuth=true&ctid=bcb4e457-125f-4e50-9814-da88002ed5f9
 
