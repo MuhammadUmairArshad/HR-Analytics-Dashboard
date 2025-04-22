@@ -1,12 +1,12 @@
-### **HR Analytics Dashboard – Employee Performance & Attrition Tracking**
+### ***HR Analytics Dashboard – Employee Performance & Attrition Tracking***
 
 **Dashboard Link:** https://app.powerbi.com/reportEmbed?reportId=c242d7d7-9cad-4407-8ddd-039713f5472a&autoAuth=true&ctid=bcb4e457-125f-4e50-9814-da88002ed5f9
 
 **Objective:**  
-To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision-making.
+To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
 
 **Tools Used:**  
-Power BI, Excel
+Power BI
 
 **Data Source:**  
 Sample HR dataset containing employee demographics, job roles, performance reviews, and attrition records.
